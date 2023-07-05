@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVueWc0Y2JnMXlyM2Y3NnEydDNqcjF6YXg0djh3M2t5MWhiZmp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KQNKDatw2BXITyplkD/giphy.gif" width="150"/>
 </div>
 <div id="badges" align= "center">
   <a href="https://vk.com/invock">
