@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVueWc0Y2JnMXlyM2Y3NnEydDNqcjF6YXg0djh3M2t5MWhiZmp6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KQNKDatw2BXITyplkD/giphy.gif" width="150"/>
+  <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png" width="150"/>
 </div>
 <div id="badges" align= "center">
-  <a href="https://vk.com/invock">
+  <a href="https://leetcode.com/u/Gertrudas/">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=&style=flat-square"  alt="VK Badge"/>
   </a>
   <a href="https://t.me/Alekato">
@@ -26,7 +26,7 @@
  :hatching_chick: C# / Java software developer
  
  :writing_hand: 2 diplomas of higher education of NSTU:
-                  Software Engineering
+                  Software Engineering / 
                   Computer Science and Engineering
  
  :eyes: I study something new in my free time
