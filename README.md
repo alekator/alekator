@@ -70,7 +70,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Gertrudas LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jetsai&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Gertrudas LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Gertrudas&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 </div>
 
