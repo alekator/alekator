@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align= "center">
   <a href="https://leetcode.com/u/Gertrudas/">
-    <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="55" alt="leetcode Badge"/>
+    <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="80" alt="leetcode Badge"/>
   </a>
   <a href="https://novosibirsk.hh.ru/resume/48d5eb0eff09dbfcc70039ed1f696c5259704c">
-    <img src="https://sun6-22.userapi.com/s/v1/if2/P0P01GylehtWPL-5SL88SVurWXtYNUJMcYP4bWYbqcbL9BlbWHQA06CU1ofrH5DTUxpaaTvs1EKEvXLIqLQ57qHR.jpg?size=604x259&quality=96&type=album"  alt="HH Badge"/>
+    <img src="https://sun6-22.userapi.com/s/v1/if2/P0P01GylehtWPL-5SL88SVurWXtYNUJMcYP4bWYbqcbL9BlbWHQA06CU1ofrH5DTUxpaaTvs1EKEvXLIqLQ57qHR.jpg?size=604x259&quality=96&type=album" width="80"  alt="HH Badge"/>
   </a>
    <a href=mailto:aleks_alex_antonov@mail.ru>
-    <img src="https://img.shields.io/badge/Mail.ru-blue?logo=Mail.ru&logoColor=white&style=flat-square"  alt="Mail.ru Badge"/>
+    <img src="https://img.shields.io/badge/Mail.ru-blue?logo=Mail.ru&logoColor=white&style=flat-square" width="80" alt="Mail.ru Badge"/>
   </a>
 </div>
 <h1 align="center">
