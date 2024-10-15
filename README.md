@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png" width="150"/>
+  <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png" width="100"/>
 </div>
 <div id="badges" align= "center">
   <a href="https://leetcode.com/u/Gertrudas/">
-    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=&style=flat-square"  alt="VK Badge"/>
+    <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  alt="leetcode Badge"/>
   </a>
   <a href="https://t.me/Alekato">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=flat-square"  alt="Telegram Badge"/>
