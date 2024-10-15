@@ -23,9 +23,11 @@
 ---
 ### :man_technologist: About Me :
 
- :hatching_chick: I am a novice backend programmer.
+ :hatching_chick: C# / Java software developer
  
- :writing_hand: Student of the NSTU.
+ :writing_hand: 2 diplomas of higher education of NSTU:
+                  Software Engineering
+                  Computer Science and Engineering
  
  :eyes: I study something new in my free time
  and delve into robotics and artificial intelligence 
