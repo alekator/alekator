@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: About Me :
 
- :hatching_chick: C# / Java software developer
+ :hatching_chick: Full stack .Net (C#) developer
  
  :writing_hand: 2 diplomas of higher education of NSTU:
                   Software Engineering / 
