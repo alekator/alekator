@@ -6,10 +6,10 @@
     <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="80" alt="leetcode Badge"/>
   </a>
   <a href="https://novosibirsk.hh.ru/resume/48d5eb0eff09dbfcc70039ed1f696c5259704c">
-    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="120"  alt="HH Badge"/>
+    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="120"  alt="Linkedin badge"/>
   </a>
    <a href=mailto:aleks_alex_antonov@mail.ru>
-    <img src="https://img.shields.io/badge/Mail.ru-blue?logo=Mail.ru&logoColor=white&style=flat-square" width="90" alt="Mail.ru Badge"/>
+    <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="90" alt="gmail.com Badge"/>
   </a>
 </div>
 <h1 align="center">
