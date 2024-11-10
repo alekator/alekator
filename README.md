@@ -9,7 +9,7 @@
     <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="126"  alt="Linkedin badge"/>
   </a>
    <a href=mailto:aleks_alex_antonov@mail.ru>
-    <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="75" alt="gmail.com Badge"/>
+    <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="65" alt="gmail.com Badge"/>
   </a>
 </div>
 <h1 align="center">
