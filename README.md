@@ -5,10 +5,10 @@
   <a href="https://leetcode.com/u/Gertrudas/">
     <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="90" alt="leetcode Badge"/>
   </a>
-  <a href="https://novosibirsk.hh.ru/resume/48d5eb0eff09dbfcc70039ed1f696c5259704c">
+  <a href="https://www.linkedin.com/in/alekator/">
     <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="137"  alt="Linkedin badge"/>
   </a>
-   <a href=mailto:aleks_alex_antonov@mail.ru>
+   <a href=mailto:aleksandr.fullstack@gmail.com>
     <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="73" alt="gmail.com Badge"/>
   </a>
 </div>
