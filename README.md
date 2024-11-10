@@ -34,7 +34,7 @@
  
  ---
 
-  ### :Languages:
+  ### Languages
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-line.svg" title="C#" alt="C" width="40" height="40"/>&nbsp;
@@ -45,10 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="Html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 
-
-
- 
-     
 </div>
 
 
@@ -60,7 +56,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats) ![ Stats](https://leetcode-status.vercel.app/api/card/Gertrudas?theme=dark&hide_title=true&custom_title=)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
