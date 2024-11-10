@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align= "center">
   <a href="https://leetcode.com/u/Gertrudas/">
-    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13"  width="80" alt="leetcode Badge"/>
+    <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="80" alt="leetcode Badge"/>
   </a>
   <a href="https://novosibirsk.hh.ru/resume/48d5eb0eff09dbfcc70039ed1f696c5259704c">
     <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="100"  alt="HH Badge"/>
