@@ -6,7 +6,7 @@
     <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13"  width="80" alt="leetcode Badge"/>
   </a>
   <a href="https://novosibirsk.hh.ru/resume/48d5eb0eff09dbfcc70039ed1f696c5259704c">
-    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="86"  alt="HH Badge"/>
+    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="100"  alt="HH Badge"/>
   </a>
    <a href=mailto:aleks_alex_antonov@mail.ru>
     <img src="https://img.shields.io/badge/Mail.ru-blue?logo=Mail.ru&logoColor=white&style=flat-square" width="90" alt="Mail.ru Badge"/>
