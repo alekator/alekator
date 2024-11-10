@@ -68,7 +68,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats) ![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/Gertrudas?theme=dark&hide_title=false&custom_title=LeetCode Status) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alekator&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats) ![LeetCode Status Stats](https://leetcode-status.vercel.app/api/card/Gertrudas?theme=dark&hide_title=true&custom_title=LeetCode Status)
 
 </div>
 
