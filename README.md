@@ -68,7 +68,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats) ![ Stats](https://leetcode-status.vercel.app/api/card/Gertrudas?theme=dark&hide_title=false&custom_title=)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats) ![ Stats](https://leetcode-status.vercel.app/api/card/Gertrudas?theme=dark&hide_title=true&custom_title=)
 
 </div>
 
