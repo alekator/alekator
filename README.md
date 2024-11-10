@@ -46,19 +46,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 
 </div>
-
-
----
-
-
-
-<div align="center">
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alekator&theme=dark&background=000000)](https://git.io/streak-stats)
-
-</div>
-
----
-
