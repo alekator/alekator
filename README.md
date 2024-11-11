@@ -6,7 +6,7 @@
     <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="90" alt="leetcode Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/alekator/">
-    <img src="https://avatars.mds.yandex.net/i?id=7e8a6f6483cdc734031ddc7732862f30bff6e178-9151245-images-thumbs&n=13" width="137"  alt="Linkedin badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="137"  alt="Linkedin badge"/>
   </a>
    <a href=mailto:aleksandr.fullstack@gmail.com>
     <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="73" alt="gmail.com Badge"/>
