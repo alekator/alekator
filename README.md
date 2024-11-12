@@ -1,3 +1,7 @@
+<h1 align="center">
+   after a year under the NDA
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
   ### Languages
 
