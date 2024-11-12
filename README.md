@@ -1,38 +1,3 @@
-<div id="header" align="center">
-  <img src="https://static.wixstatic.com/media/7c3353_190cfd98b28e4c9aba0a9284b2389399~mv2.gif" width="120"/>
-</div>
-<div id="badges" align= "center">
-  <a href="https://leetcode.com/u/Gertrudas/">
-    <img src="https://blog.kakaocdn.net/dn/GmgMX/btqRI7zE6Zf/YzboD9mVRPtwP1RMnqz3x1/img.png"  width="90" alt="leetcode Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alekator/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="35"  alt="Linkedin badge"/>
-  </a>
-   <a href=mailto:aleksandr.fullstack@gmail.com>
-    <img src="https://logocharts.com/wp-content/uploads/2021/12/Why-has-Gmail-changed-its-logo.jpg" width="73" alt="gmail.com Badge"/>
-  </a>
-</div>
-<h1 align="center">
-   GITHUB IS EMPTY = YEAR under NDA
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="700"/>
-</div>
-
----
-### :man_technologist: About Me :
-
- :hatching_chick: Full stack .Net (C#) developer
- 
- :writing_hand: 2 diplomas of higher education of NSTU:
-                  Software Engineering / 
-                  Computer Science and Engineering
- 
- :eyes: I study something new in my free time
- and delve into robotics and artificial intelligence 
- 
- ---
 
   ### Languages
 
