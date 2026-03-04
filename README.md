@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander (Alekator)
+# 👋 Hi, I'm Alexander
 
 Frontend / Full-stack developer focused on building modern **React + TypeScript** applications.
 
