@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Alexander
 
-Frontend / Full-stack developer focused on building modern **React + TypeScript** applications.
+Full-stack developer building modern web applications (**React + TypeScript**) with a backend background (**.NET / Python**).
 
-I work with complex UI, real-time systems, and API-driven architectures.  
-My background in backend development (**.NET / Python**) helps me design better interfaces and understand how systems work end-to-end.
+I build complex UI, real-time systems, and API-driven architectures.  
 
 ### ⚙️ Tech stack
 
@@ -14,7 +13,7 @@ Backend
 .NET • FastAPI • PostgreSQL • Redis
 
 Other  
-WebSockets • Docker • CI/CD • Playwright • Jest
+WebSockets • Docker • CI/CD • Playwright • Jest • LLM / RAG
 
 ---
 
