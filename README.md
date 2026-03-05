@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander
 
-Full-stack developer building modern web applications (**React + TypeScript**) with a backend background (**.NET / Python**).
+Full-stack developer building modern web applications (**React + TypeScript**) with a backend background (**Python / .NET**).
 
 I build complex UI, real-time systems, and API-driven architectures.  
 
