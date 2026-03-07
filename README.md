@@ -1,27 +1,7 @@
-# 👋 Hi, I'm Alexander
+# Hi, I'm Alexander 👋
 
-Full-stack developer building modern web applications (**React + TypeScript**) with a backend background (**Python / .NET**).
+Full-Stack Developer building modern web applications and AI-powered tools.
 
-I build complex UI, real-time systems, and API-driven architectures.  
-
-### ⚙️ Tech stack
-
-Frontend  
-React • TypeScript • Next.js • TanStack Query • Zustand • Tailwind • shadcn/ui
-
-Backend  
-.NET • FastAPI • PostgreSQL • Redis
-
-Other  
-WebSockets • Docker • CI/CD • Playwright • Jest • LLM / RAG
-
----
-
-### 🚀 What I like building
-
-• Complex product interfaces  
-• Real-time applications  
-• API-driven systems  
-• AI / RAG experiments
-
----
+• React + TypeScript  
+• AI / LLM applications  
+• Python / Node.js / .NET backends
