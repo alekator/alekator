@@ -1,4 +1,4 @@
-# Hi, I'm Alexander 👋
+# Hi, I'm Aleksandr 👋
 
 Full-Stack Developer building modern web applications and AI-powered tools.
 
