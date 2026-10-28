@@ -1,8 +1,8 @@
 # Hi, I'm Aleksandr 👋
 
-Full-Stack Developer building modern web applications and AI-powered tools.
+Backend & Full-Stack Developer.
 
-• .NET / Node.js / Python
-• React + TypeScript  
-• AI / LLM applications  
+Core experience: C# / .NET, ASP.NET Core, APIs, databases, distributed systems and real-time applications.
+
+Also building projects with Python, TypeScript, React, AI/LLM and RAG.
 
